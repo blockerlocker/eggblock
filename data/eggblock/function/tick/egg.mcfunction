@@ -8,6 +8,8 @@ execute if data entity @s Item{id:"minecraft:egg"} run data modify entity @s dat
 execute if data entity @s Item{id:"minecraft:blue_egg"} run data modify entity @s data.eggblock_variant set value "cold"
 execute if data entity @s Item{id:"minecraft:brown_egg"} run data modify entity @s data.eggblock_variant set value "warm"
 
+execute unless data entity @s Owner run data modify entity @s Owner set value uuid('9e1bd516-f065-4def-b038-de9aa3933212')
+
 function eggblock:custom_egg with entity @s
 
 kill @s
