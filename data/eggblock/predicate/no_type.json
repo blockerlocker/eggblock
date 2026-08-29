@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:entity_properties",
+    "condition": "minecraft:entity_properties",
     "entity": "this",
     "predicate": {
         "minecraft:equipment": {
