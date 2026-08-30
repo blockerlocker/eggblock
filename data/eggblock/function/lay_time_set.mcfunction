@@ -1,0 +1,1 @@
+$execute store result entity @s EggLayTime int 1 run random value $(egg_lay_min)..$(egg_lay_max)

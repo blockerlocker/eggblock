@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:value_check",
+    "value": {
+        "type": "minecraft:storage",
+        "storage": "eggblock:temp",
+        "path": "all.egg_lay_time"
+    },
+    "range": {
+        "min": {
+            "type": "minecraft:storage",
+            "storage": "eggblock:settings",
+            "path": "egg_lay_max"
+        }
+    }
+}
