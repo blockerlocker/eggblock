@@ -6,7 +6,7 @@ if len(sys.argv) > 1:
     MCVERSION = sys.argv[1]
 else:
 #### SET MINECRAFT VERSION MANUALLY HERE ####
-    MCVERSION = "latest-snapshot"
+    MCVERSION = "26.2"
 
 
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
@@ -50,18 +50,20 @@ chicken_type_loot_table = {
         {
             "entries": [],
             "rolls": 1,
-            "modifier": {
-                "type": "minecraft:set_components",
-                "components": {
-                    "minecraft:equippable": {
-                        "slot": "body",
-                        "equip_sound": "minecraft:intentionally_empty"
-                    },
-                    "minecraft:enchantments": {
-                        "minecraft:vanishing_curse": 1
+            "functions": [
+                {
+                    "function": "minecraft:set_components",
+                    "components": {
+                        "minecraft:equippable": {
+                            "slot": "body",
+                            "equip_sound": "minecraft:intentionally_empty"
+                        },
+                        "minecraft:enchantments": {
+                            "minecraft:vanishing_curse": 1
+                        }
                     }
                 }
-            }
+            ]
         }
     ]
 }
@@ -70,17 +72,19 @@ for item in item_list:
     if item != "air":
         egg_entry = {
             "type": "minecraft:item",
-            "condition": {
-                "type": "minecraft:entity_properties",
-                "entity": "this",
-                "predicate": {
-                    "minecraft:equipment": {
-                        "body": {
-                            "items": item
+            "conditions": [
+                {
+                    "condition": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                        "minecraft:equipment": {
+                            "body": {
+                                "items": item
+                            }
                         }
                     }
                 }
-            },
+            ],
             "name": item
         }
 

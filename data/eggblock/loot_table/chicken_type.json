@@ -4,10 +4,6 @@
             "entries": [
                 {
                     "type": "item",
-                    "name": "abandoned_camp_map"
-                },
-                {
-                    "type": "item",
                     "name": "acacia_boat"
                 },
                 {
@@ -420,18 +416,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "black_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "black_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "black_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "black_dye"
                 },
                 {
@@ -461,14 +445,6 @@
                 {
                     "type": "item",
                     "name": "black_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "black_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "black_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -536,18 +512,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "blue_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "blue_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "blue_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "blue_dye"
                 },
                 {
@@ -589,14 +553,6 @@
                 {
                     "type": "item",
                     "name": "blue_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "blue_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "blue_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -720,18 +676,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "brown_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "brown_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "brown_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "brown_dye"
                 },
                 {
@@ -776,14 +720,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "brown_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "brown_wool_stairs"
-                },
-                {
-                    "type": "item",
                     "name": "brush"
                 },
                 {
@@ -809,22 +745,6 @@
                 {
                     "type": "item",
                     "name": "bundle"
-                },
-                {
-                    "type": "item",
-                    "name": "buried_ancient_city_map"
-                },
-                {
-                    "type": "item",
-                    "name": "buried_mineshaft_map"
-                },
-                {
-                    "type": "item",
-                    "name": "buried_treasure_map"
-                },
-                {
-                    "type": "item",
-                    "name": "buried_trial_chambers_map"
                 },
                 {
                     "type": "item",
@@ -1556,18 +1476,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "cyan_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "cyan_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "cyan_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "cyan_dye"
                 },
                 {
@@ -1597,14 +1505,6 @@
                 {
                     "type": "item",
                     "name": "cyan_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "cyan_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "cyan_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -1845,14 +1745,6 @@
                 {
                     "type": "item",
                     "name": "deepslate_tiles"
-                },
-                {
-                    "type": "item",
-                    "name": "desert_pyramid_map"
-                },
-                {
-                    "type": "item",
-                    "name": "desert_village_map"
                 },
                 {
                     "type": "item",
@@ -2488,18 +2380,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "gray_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "gray_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "gray_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "gray_dye"
                 },
                 {
@@ -2532,14 +2412,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "gray_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "gray_wool_stairs"
-                },
-                {
-                    "type": "item",
                     "name": "green_banner"
                 },
                 {
@@ -2565,18 +2437,6 @@
                 {
                     "type": "item",
                     "name": "green_concrete_powder"
-                },
-                {
-                    "type": "item",
-                    "name": "green_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "green_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "green_cushion"
                 },
                 {
                     "type": "item",
@@ -2609,14 +2469,6 @@
                 {
                     "type": "item",
                     "name": "green_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "green_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "green_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -2908,10 +2760,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "jungle_pyramid_map"
-                },
-                {
-                    "type": "item",
                     "name": "jungle_sapling"
                 },
                 {
@@ -3052,18 +2900,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "light_blue_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "light_blue_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "light_blue_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "light_blue_dye"
                 },
                 {
@@ -3096,14 +2932,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "light_blue_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "light_blue_wool_stairs"
-                },
-                {
-                    "type": "item",
                     "name": "light_gray_banner"
                 },
                 {
@@ -3129,18 +2957,6 @@
                 {
                     "type": "item",
                     "name": "light_gray_concrete_powder"
-                },
-                {
-                    "type": "item",
-                    "name": "light_gray_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "light_gray_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "light_gray_cushion"
                 },
                 {
                     "type": "item",
@@ -3173,14 +2989,6 @@
                 {
                     "type": "item",
                     "name": "light_gray_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "light_gray_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "light_gray_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -3232,18 +3040,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "lime_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "lime_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "lime_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "lime_dye"
                 },
                 {
@@ -3273,14 +3069,6 @@
                 {
                     "type": "item",
                     "name": "lime_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "lime_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "lime_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -3332,18 +3120,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "magenta_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "magenta_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "magenta_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "magenta_dye"
                 },
                 {
@@ -3373,14 +3149,6 @@
                 {
                     "type": "item",
                     "name": "magenta_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "magenta_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "magenta_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -3900,10 +3668,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "ocean_monument_map"
-                },
-                {
-                    "type": "item",
                     "name": "ocelot_spawn_egg"
                 },
                 {
@@ -3952,18 +3716,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "orange_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "orange_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "orange_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "orange_dye"
                 },
                 {
@@ -3973,10 +3725,6 @@
                 {
                     "type": "item",
                     "name": "orange_harness"
-                },
-                {
-                    "type": "item",
-                    "name": "orange_poplar_leaves"
                 },
                 {
                     "type": "item",
@@ -4001,14 +3749,6 @@
                 {
                     "type": "item",
                     "name": "orange_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "orange_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "orange_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -4260,18 +4000,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "pink_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "pink_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "pink_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "pink_dye"
                 },
                 {
@@ -4312,14 +4040,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "pink_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "pink_wool_stairs"
-                },
-                {
-                    "type": "item",
                     "name": "piston"
                 },
                 {
@@ -4329,10 +4049,6 @@
                 {
                     "type": "item",
                     "name": "pitcher_pod"
-                },
-                {
-                    "type": "item",
-                    "name": "plains_village_map"
                 },
                 {
                     "type": "item",
@@ -4504,74 +4220,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "poplar_boat"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_button"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_chest_boat"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_door"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_fence"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_fence_gate"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_hanging_sign"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_log"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_planks"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_pressure_plate"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_sapling"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_shelf"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_sign"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_trapdoor"
-                },
-                {
-                    "type": "item",
-                    "name": "poplar_wood"
-                },
-                {
-                    "type": "item",
                     "name": "popped_chorus_fruit"
                 },
                 {
@@ -4696,18 +4344,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "purple_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "purple_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "purple_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "purple_dye"
                 },
                 {
@@ -4737,14 +4373,6 @@
                 {
                     "type": "item",
                     "name": "purple_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "purple_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "purple_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -4876,18 +4504,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "red_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "red_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "red_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "red_dye"
                 },
                 {
@@ -4924,10 +4540,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "red_poplar_leaves"
-                },
-                {
-                    "type": "item",
                     "name": "red_sand"
                 },
                 {
@@ -4945,10 +4557,6 @@
                 {
                     "type": "item",
                     "name": "red_sandstone_wall"
-                },
-                {
-                    "type": "item",
-                    "name": "red_shrub"
                 },
                 {
                     "type": "item",
@@ -4973,14 +4581,6 @@
                 {
                     "type": "item",
                     "name": "red_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "red_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "red_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -5100,10 +4700,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "savanna_village_map"
-                },
-                {
-                    "type": "item",
                     "name": "scaffolding"
                 },
                 {
@@ -5161,10 +4757,6 @@
                 {
                     "type": "item",
                     "name": "sheep_spawn_egg"
-                },
-                {
-                    "type": "item",
-                    "name": "shelf_mushroom"
                 },
                 {
                     "type": "item",
@@ -5333,10 +4925,6 @@
                 {
                     "type": "item",
                     "name": "snowball"
-                },
-                {
-                    "type": "item",
-                    "name": "snowy_village_map"
                 },
                 {
                     "type": "item",
@@ -5544,10 +5132,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "straw_bed"
-                },
-                {
-                    "type": "item",
                     "name": "stray_spawn_egg"
                 },
                 {
@@ -5633,14 +5217,6 @@
                 {
                     "type": "item",
                     "name": "stripped_pale_oak_wood"
-                },
-                {
-                    "type": "item",
-                    "name": "stripped_poplar_log"
-                },
-                {
-                    "type": "item",
-                    "name": "stripped_poplar_wood"
                 },
                 {
                     "type": "item",
@@ -5736,10 +5312,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "swamp_hut_map"
-                },
-                {
-                    "type": "item",
                     "name": "sweet_berries"
                 },
                 {
@@ -5749,10 +5321,6 @@
                 {
                     "type": "item",
                     "name": "tadpole_spawn_egg"
-                },
-                {
-                    "type": "item",
-                    "name": "taiga_village_map"
                 },
                 {
                     "type": "item",
@@ -5953,10 +5521,6 @@
                 {
                     "type": "item",
                     "name": "warden_spawn_egg"
-                },
-                {
-                    "type": "item",
-                    "name": "warm_ocean_ruins_map"
                 },
                 {
                     "type": "item",
@@ -6388,18 +5952,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "white_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "white_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "white_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "white_dye"
                 },
                 {
@@ -6433,14 +5985,6 @@
                 {
                     "type": "item",
                     "name": "white_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "white_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "white_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -6508,10 +6052,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "woodland_mansion_map"
-                },
-                {
-                    "type": "item",
                     "name": "writable_book"
                 },
                 {
@@ -6548,18 +6088,6 @@
                 },
                 {
                     "type": "item",
-                    "name": "yellow_concrete_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "yellow_concrete_stairs"
-                },
-                {
-                    "type": "item",
-                    "name": "yellow_cushion"
-                },
-                {
-                    "type": "item",
                     "name": "yellow_dye"
                 },
                 {
@@ -6569,10 +6097,6 @@
                 {
                     "type": "item",
                     "name": "yellow_harness"
-                },
-                {
-                    "type": "item",
-                    "name": "yellow_poplar_leaves"
                 },
                 {
                     "type": "item",
@@ -6593,14 +6117,6 @@
                 {
                     "type": "item",
                     "name": "yellow_wool"
-                },
-                {
-                    "type": "item",
-                    "name": "yellow_wool_slab"
-                },
-                {
-                    "type": "item",
-                    "name": "yellow_wool_stairs"
                 },
                 {
                     "type": "item",
@@ -6632,18 +6148,20 @@
                 }
             ],
             "rolls": 1,
-            "modifier": {
-                "type": "minecraft:set_components",
-                "components": {
-                    "minecraft:equippable": {
-                        "slot": "body",
-                        "equip_sound": "minecraft:intentionally_empty"
-                    },
-                    "minecraft:enchantments": {
-                        "minecraft:vanishing_curse": 1
+            "functions": [
+                {
+                    "function": "minecraft:set_components",
+                    "components": {
+                        "minecraft:equippable": {
+                            "slot": "body",
+                            "equip_sound": "minecraft:intentionally_empty"
+                        },
+                        "minecraft:enchantments": {
+                            "minecraft:vanishing_curse": 1
+                        }
                     }
                 }
-            }
+            ]
         }
     ]
 }

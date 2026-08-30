@@ -1,5 +1,5 @@
 {
-    "type": "minecraft:value_check",
+    "condition": "minecraft:value_check",
     "value": {
         "type": "minecraft:storage",
         "storage": "eggblock:temp",
